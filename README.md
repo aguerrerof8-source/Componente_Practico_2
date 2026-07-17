@@ -1,4 +1,6 @@
 # __Ingieneria de Requerimientos_
 # Andy Guerrero Fajardo
-### Sistema 
-Un requerimiento es una descripción clara y detallada de una necesidad, característica o funcionalidad que un sistema debe cumplir para satisfacer las expectativas de los usuarios y las metas del proyecto. En el contexto del desarrollo de software, los requerimientos sirven como guía para diseñar, implementar y validar soluciones tecnológicas. Los requerimientos son esenciales porque establecen un entendimiento común entre los stakeholders y el equipo de desarrollo, reduciendo riesgos y garantizando que el producto final cumpla con las expectativas definidas.
+### Descripcion Breve del Sistema
+Un sistema de software orientado a apoyar la gestión, el seguimiento y el control de los procesos académicos y administrativos de una institución educativa, así como el aseguramiento de su calidad. Permite documentar procesos, definir indicadores, planificar auditorías internas, registrar no conformidades y dar seguimiento a los planes de mejora derivados de estas.
+### Descripción de la actividad realizada
+En el marco del Componente Práctico 2 de la asignatura Introducción a la Ingeniería de Software, el grupo identificó y clasificó los tipos de requerimientos de software correspondientes al proyecto SIGPROCAL. El trabajo incluyó la redacción de 10 requerimientos funcionales, 7 requerimientos no funcionales y 5 reglas de negocio o restricciones, organizados y documentados según la codificación establecida (RF, RNF, RN), junto con una tabla resumen de clasificación general.
